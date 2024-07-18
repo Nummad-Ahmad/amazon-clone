@@ -1,0 +1,33 @@
+.single-product{
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 40px;
+}
+.product-details{
+    display: flex;
+    width: 90%;
+}
+.product-title{
+    font-weight: bold;
+    font-size: 17px;
+}
+.title-description-div{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    width: 70%;
+}
+.product-price{
+    font-weight: bold;
+    font-size: 30px;
+}
+.about-text{
+    font-weight: bold;
+    font-size: small;
+}
+.single-product-innerDiv{
+    display: flex;
+}
+.product-details-outer{
+    display: flex;
+}

@@ -1,0 +1,27 @@
+.category-wise-product{
+    border: 2px solid rgb(224, 224, 224);
+    background-color: white;
+    height: fit-content;
+    padding: 10px;
+}
+.imageDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    height: 250px;
+    overflow: hidden;
+}
+.product-category{
+    font-weight: bold;
+}
+.btn{
+    width: 90%;
+    margin: 20px 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 216, 20 );
+    padding: 5px 0px;
+}
+.buttonDiv{
+    margin: 10px 0px;
+}

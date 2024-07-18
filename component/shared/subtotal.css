@@ -1,0 +1,16 @@
+.leftText{
+    margin: 20px 0px;
+    text-align: left;
+    font-size: small;
+}
+.leftText span{
+    font-size: small;
+    font-weight: bold;
+}
+.total-price{
+    margin: 20px 0px;
+    text-align: right;
+}
+.total-price span{
+    font-weight: bold;
+}

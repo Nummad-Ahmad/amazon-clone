@@ -1,0 +1,63 @@
+.checkout{
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    padding: 10px;
+    background-color: white;
+}
+.innerDiv{
+    width: 70%;
+    margin: 0px auto;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid rgb(224,224, 224);
+}
+.checkoutText{
+    font-weight: bold;
+    font-size:x-large;
+}
+.lockDiv{
+    color: rgb(200, 200, 200);
+}
+.delivery-address{    
+    font-weight: bold;
+    font-size: large;
+    width: 400px;
+}
+.bottomDiv{
+    padding: 20px 0px;
+    width: 70%;
+    margin: 0px auto;
+    border-bottom: 2px solid rgb(224, 224, 224);
+}
+.bottom-innerDiv{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.description-paragraph{
+    font-size: small;
+}
+.single-product{
+    display: flex;
+    margin: 20px 0px;
+}
+.title-and-price{
+    margin-left: 40px;
+}
+.price{
+    font-weight: bold;
+    font-size:x-large;
+    padding: 10px 0px;
+}
+.title{
+    font-weight: bold;
+}
+.detailsDiv{
+    display: flex;
+    width: 70%;
+    margin: 0px auto;
+    justify-content: space-between;
+}

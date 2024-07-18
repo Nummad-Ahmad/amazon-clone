@@ -1,0 +1,109 @@
+.header{
+    color: white;
+    background-color: rgb(19, 25, 33);
+    padding: 1px 0px;
+}
+.header-innerdiv1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0px auto;
+}
+.user{
+    font-size: 10px;
+    cursor: pointer;
+}
+.account-list{
+    font-size: 11px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.header-innerdiv2{
+    display: flex;
+    align-items: center;
+    width: 20%;
+    justify-content: space-around;
+}
+.cart-container{
+    display: flex;
+    cursor: pointer;
+}
+.cart-text{
+    margin-top: 20px;
+}
+.number-count{
+    position: relative;
+    top: 15px;
+    left: 20px;
+    color: rgb(240, 146, 7);
+}
+.input{
+    width: 100%;
+    padding: 5px 10px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    color: black;
+    outline: none;
+}
+.input-div{
+    width: 60%;
+    display: flex;
+    align-items:center;
+}
+.image-div{
+    width: 10%;
+}
+.searchIcon-div{
+    background-color: rgb(243, 168, 71);
+    padding: 5px;
+    color: black;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    cursor: pointer;
+}
+.searchIcon-div:hover{
+    background-color: rgb(189, 124, 40);
+}
+.bottom-header-outer-div{
+    background-color: rgb(35, 47, 62);
+    width: 100%;
+    color: white;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-links{
+    font-size: 16px;
+    margin: 0px 6px;
+    border: 1px solid rgb(35, 47, 62);
+    padding: 6px 4px;
+}
+.navbar-links:hover{
+    border: 1px solid white;
+}
+.sign-out{
+    font-weight: bold;
+    color: rgb(243, 168, 71);
+    cursor: pointer;
+}
+.sign-out:hover{
+    text-decoration: underline;
+}
+.signout-div{
+    margin-right: 20px;
+}
+.user:hover{
+    text-decoration: underline;
+}
+.userNameDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.return-and-orders{
+    display: flex;
+    flex-direction: column;    
+    justify-content: space-between;
+}

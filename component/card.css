@@ -1,0 +1,22 @@
+.product-name{
+    font-weight: bold;
+    font-size: 20px;
+}
+.imageDiv{
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    mix-blend-mode: multiply;
+}
+.imageOuterDiv{
+    cursor: pointer;
+    background-color: whitesmoke;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    padding: 25px;
+}

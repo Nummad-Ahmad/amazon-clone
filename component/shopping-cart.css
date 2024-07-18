@@ -1,0 +1,99 @@
+.borderDiv{
+    border-top: 2px solid rgb(224, 224, 224);
+}
+.shopping-cartTitle{
+    font-weight: bold;
+    padding: 20px 0px;
+    font-size: 20px;    
+}
+.image-descriptionDiv{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+}
+.product-name{
+    font-weight: bold;
+    font-size: 20px;
+}
+.greenText{
+    color: rgb(0, 118, 0);
+    margin: 10px 0px;
+    font-size: x-small;
+    font-weight: bold;
+}
+.imageDiv{
+    margin-right: 30px;
+    padding: 0px;
+}
+.removeText{
+    font-weight: bold;
+    cursor: pointer;
+    color: rgb(218, 48, 48);
+}
+.outer-image-descriptionDiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(224, 224, 224);
+    padding-bottom: 20px;
+}
+.price-titleText{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.price{
+    font-weight: bold;
+    font-size: 20px;    
+    padding-top: 20px;
+}
+.line-on-price{
+    text-decoration: line-through;
+}
+.actual-price{
+    font-size: small;
+    padding: 5px 0px;
+}
+image{
+    padding: 0px;
+    margin: 0px;
+}
+.quantityDiv{
+    display: flex;
+    align-items: center;
+    background-color: rgb(224, 224, 224);
+    width: 200px;
+    padding: 5px 15px;
+    justify-content: space-between;
+    font-size: large;
+    border-radius: 5px;
+    font-weight:bold;
+}
+.pointer{
+    cursor: pointer;
+}
+.total-price{
+    margin: 20px 0px;
+    text-align: right;
+}
+.total-price span{
+    font-size: large;
+    font-weight: bold;
+    text-align: right;
+}
+.shopping-cartDiv{
+    width: 70%;
+}
+.remove-all{
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn-and-total{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+h1{
+    display: inline;
+}

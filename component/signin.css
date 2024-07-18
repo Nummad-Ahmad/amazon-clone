@@ -1,0 +1,11 @@
+.signin{
+    background-color: white;
+    padding: 43px 0px;
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+.innerDiv{
+    width: 20%;
+    margin: 0px auto;
+}

@@ -1,0 +1,34 @@
+.add-to-cartDiv{
+    border: 1px solid rgb(209, 213, 219);
+    width: 200px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: small;
+    height: fit-content;
+}
+.imageDiv{
+    padding: 10px;
+}
+.blueText{
+    color: rgb(20, 124, 143);
+}
+.secondH1{
+    margin-top: 10px;
+}
+.add-to-cart-button{
+    background-color: rgb(255, 216, 20);
+    width: 100%;
+    margin: 10px auto;
+    border-radius: 20px;
+    padding: 5px 0px;
+}
+.buy-now-button{
+    background-color: rgb(255, 164, 28);
+    width: 100%;
+    margin: 10px auto;
+    border-radius: 20px;
+    padding: 5px 0px;
+}

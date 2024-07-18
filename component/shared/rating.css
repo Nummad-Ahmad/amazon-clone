@@ -1,0 +1,15 @@
+h3{
+    color: rgb(0, 113,133);
+    display: inline;
+    margin-left: 10px;
+}
+.orangeText{
+    color: rgb(243, 168, 71);
+    display: inline;
+    font-size: 15px;
+    font-weight: bold;
+}
+.ratings-div{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,14 @@
+.serach-result{
+    width: 80%;
+    margin: 0px auto;
+    padding-top: 30px;
+}
+.result-text{
+    font-weight: bold;
+    font-size: 30px;
+}
+.card-container-div{
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    gap: 20px
+}

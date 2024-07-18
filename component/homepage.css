@@ -1,0 +1,16 @@
+.productDiv{
+    width: 80%;
+    display: grid;
+    margin: 0px auto;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    position: relative;
+    top: -250px;
+}
+.img{
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+}
+image{
+    margin: 0px;
+    padding: 0px;
+}
